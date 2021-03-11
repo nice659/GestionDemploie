@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ApplyFragment">
+
+    <TextView
+        android:textStyle="bold"
+        android:textSize="@dimen/dim_all"
+        android:gravity="center"
+        android:text="@string/apply"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:id="@+id/txtFirstName"
+        android:layout_marginTop="@dimen/dim_top"
+        android:hint="@string/first_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:id="@+id/txtLastName"
+        android:layout_marginTop="@dimen/dim_top"
+        android:hint="@string/last_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:id="@+id/txtEmail"
+        android:layout_marginTop="@dimen/dim_top"
+        android:hint="@string/email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <EditText
+        android:id="@+id/txtPhoneNumber"
+        android:layout_marginTop="@dimen/dim_top"
+        android:hint="@string/phone_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:layout_marginTop="@dimen/dim_top"
+        android:textSize="@dimen/dim_title"
+        android:text="@string/degrees"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <CheckBox
+        android:layout_marginTop="@dimen/dim_top"
+        android:id="@+id/cbOLevel"
+        android:text="@string/o_level"
+        android:layout_marginLeft="@dimen/dim_middle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <CheckBox
+        android:layout_marginTop="@dimen/dim_top"
+        android:id="@+id/cbBachelor"
+        android:text="@string/bachelor"
+        android:layout_marginLeft="@dimen/dim_middle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <CheckBox
+        android:layout_marginTop="@dimen/dim_top"
+        android:id="@+id/cbMaster"
+        android:text="@string/master"
+        android:layout_marginLeft="@dimen/dim_middle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:id="@+id/btnSave"
+        android:backgroundTint="@color/design_default_color_primary_dark"
+        android:text="@string/save"
+        android:layout_margin="@dimen/dim_all"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+
+
+
+
+</LinearLayout>

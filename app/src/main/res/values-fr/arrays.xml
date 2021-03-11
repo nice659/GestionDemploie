@@ -2,24 +2,19 @@
 <resources>
     <string-array name="tab_Offer">
         <item>DATA ENGINEER</item>
-        <item>COURSIER</item>
         <item>CHAUFFEUR</item>
-        <item>CAISSIERE</item>
-        <item>ASSISTANTE DE DIRECTION BILINGUE</item>
+        <item>DBA</item>
+        <item>secretary</item>
+
     </string-array>
 
-        <string-array name="tab_Details">
-            <item>Description du poste
-                MISSION:Qualite,teste,met en production,administre,exploite,supersvise et assure le support niveau 2sur les application de business intelligence.
-                ACTIVITES PRINCIPALES, analyse et developpement , exploitation,langage de programation
-            </item>
-            <item>Java,c#,linux,Uml,Xml,Android,Oracle,Msql.Dev Mobile,Dev Front,Dev Backend, Full Stark,DBA,Admin Sys,Admin Network,Devops,Analyst Dev</item>
-            <item></item>
-            <item></item>
-            <item>ASSISTANTE DE DIRECTION BILINGUE</item>
+    <string-array name="tab_Details">
+        <item>java,linux,oracle,Full Start </item>
+        <item>Java,c#,linux,Uml,Xml,Android,Oracle,Msql.Dev Mobile,Dev Front,Dev Backend, Full Stark,DBA,Admin Sys,Admin Network,Devops,Analyst Dev</item>
+        <item></item>
+        <item></item>
 
-
-        </string-array>
+    </string-array>
 
 
 

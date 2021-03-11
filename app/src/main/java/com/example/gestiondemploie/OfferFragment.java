@@ -47,7 +47,11 @@ public class OfferFragment extends Fragment {
                 dialog.setPositiveButton(getString(R.string.apply), new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int which) {
-                        //appel du fragment apply(postuler)
+                        //appel du fragment apply(postuler) apres le click sur le button apply
+                        getFragmentManager().beginTransaction()
+                                .replace(R.id.nav_host_fragment, new ApplyFragment())
+                                .addToBackStack(null)
+                                .commit();
 
                     }
                 });

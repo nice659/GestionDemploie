@@ -17,6 +17,7 @@
     <string name="o_level">Bac</string>
     <string name="bachelor">Licence</string>
     <string name="master">Master</string>
+    <string name="phone_number">numero telephone</string>
     <string name="save">Enregistrer</string>
     <string name="experience">experience</string>
     <string name="metier">metier</string>
