@@ -1,0 +1,38 @@
+<resources>
+    <string name="presentation">Présentation</string>
+    <string name="app_name">GestionDemploie</string>
+    <string name="job">
+        Une authentification •Une Page de Création de son CV •Une Page de Création/Modification de Favoris Une Page de Recherche des offre
+        Une Page de Consultation des offres de favoris Une Page de Réponse à une Offre</string>
+    <string name="create_cv">creation cv</string>
+    <string name="update_favorite">modifie des favories</string>
+    <string name="offer">offre</string>
+    <string name="offer_favorite">offre favorie</string>
+    <string name="help">Aide</string>
+    <string name="cancel">Annuler</string>
+    <string name="apply">postuler</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="degrees">Diplome</string>
+    <string name="o_level">Bac</string>
+    <string name="bachelor">Licence</string>
+    <string name="master">Master</string>
+    <string name="save">Enregistrer</string>
+    <string name="experience">experience</string>
+    <string name="metier">metier</string>
+    <string name="email">email</string>
+    <string name="address">address</string>
+    <string name="error_fields">Champs obligatoire</string>
+    <string name="error_connection">erreur de connexion</string>
+    <string name="error_parameters">Paramètres incorrectes</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="wait">Patientez SVP</string>
+    <string name="success_inscription">Inscription réussie</string>
+    <string name="error_inscription">Inscription échouée</string>
+    <string name="logout">Déconnexion</string>
+    <string name="connection">Connexion</string>
+    <string name="login">Identifiant</string>
+    <string name="password">Mot de passe</string>
+    <string name="connect">se connecter</string>
+    <string name="sign_up">S\'inscrire</string>
+</resources>

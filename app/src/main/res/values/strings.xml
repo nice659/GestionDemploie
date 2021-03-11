@@ -1,0 +1,50 @@
+<resources>
+    <string name="presentation">Présentation</string>
+    <string name="app_name">GestionDemploie</string>
+    <string name="job">Une authentification •Une Page de Création de son CV •Une Page de Création/Modification de Favoris Une Page de Recherche des offre
+        Une Page de Consultation des offres de favoris Une Page de Réponse à une Offree</string>
+    <string name="create_cv">create cv</string>
+    <string name="update_favorite">update cv</string>
+    <string name="offer">offer</string>
+    <string name="offer_favorite">offer favorite</string>
+    <string name="help">Help</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply">Apply</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="degrees">Degrees</string>
+    <string name="o_level">O level</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="save">Save</string>
+    <string name="experience">experience</string>
+    <string name="metier">metier</string>
+    <string name="address">address</string>
+    <string name="email">email</string>
+    <string name="error_fields">Required fields</string>
+    <string name="error_connection">Connection error</string>
+    <string name="error_parameters">Error parameters</string>
+    <string name="welcome">Welcome</string>
+    <string name="wait">Please wait</string>
+    <string name="success_inscription">Inscription success</string>
+    <string name="error_inscription">Inscription error</string>
+    <string name="logout">Logout</string>
+    <string name="connection">Connection</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="connect">Connect</string>
+    <string name="sign_up">Sign up</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
