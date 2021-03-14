@@ -10,7 +10,7 @@
         android:textStyle="bold"
         android:textSize="@dimen/dim_all"
         android:gravity="center"
-        android:text="@string/apply"
+        android:text="@string/create_cv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         />
@@ -29,27 +29,26 @@
         android:layout_height="wrap_content"
         />
     <EditText
+        android:id="@+id/txtSecotor"
+        android:layout_marginTop="5dp"
+        android:hint="@string/sector"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <EditText
         android:id="@+id/txtEmail"
         android:layout_marginTop="5dp"
         android:hint="@string/email"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         />
-    <EditText
-        android:id="@+id/txtPhoneNumber"
-        android:layout_marginTop="5dp"
-        android:hint="@string/phone_number"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        />
     <TextView
         android:layout_marginTop="5dp"
-        android:textSize="@dimen/dim_title"
         android:text="@string/degrees"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         />
-
     <CheckBox
         android:layout_marginTop="5dp"
         android:id="@+id/cbOLevel"
@@ -74,12 +73,19 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         />
+    <EditText
+        android:id="@+id/txtExperience"
+        android:layout_marginTop="5dp"
+        android:hint="@string/experience"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
     <Button
         android:id="@+id/btnSave"
         android:backgroundTint="@color/design_default_color_primary_dark"
         android:text="@string/save"
-        android:layout_marginTop="5dp"
-        android:layout_margin="5dp"
+        android:layout_margin="@dimen/dim_all"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         />

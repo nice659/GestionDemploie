@@ -15,17 +15,22 @@
         android:name="com.example.gestiondemploie.OfferFragment"
         android:label="@string/offer"
         tools:layout="@layout/fragment_offer" />
+    <fragment
+        android:id="@+id/nav_create_cv"
+        android:name="com.example.gestiondemploie.CvFragment"
+        android:label="@string/create_cv"
+        tools:layout="@layout/fragment_offer" />
 
     <fragment
         android:id="@+id/nav_create_favorite"
         android:name="com.example.gestiondemploie.ui.gallery.GalleryFragment"
-        android:label="@string/update_favorite"
+        android:label="@string/offer_favorite"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/nav_update_cv"
-        android:name="com.example.gestiondemploie.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
+        android:name="com.example.gestiondemploie.UpdateCvFragment"
+        android:label="@string/update_resume"
         tools:layout="@layout/fragment_slideshow" />
 
 </navigation>

@@ -1,15 +1,18 @@
 <resources>
     <string name="presentation">Présentation</string>
     <string name="app_name">GestionDemploie</string>
-    <string name="job">Une authentification •Une Page de Création de son CV •Une Page de Création/Modification de Favoris Une Page de Recherche des offre
-        Une Page de Consultation des offres de favoris Une Page de Réponse à une Offree</string>
+    <string name="job">It will be necessary to facilitate an access interface for a job seeker
+to see posted vacancies and notification of vacancies according to
+categories concerned. A recruiter profile will allow posting of offers and
+to look at the CVs posted</string>
     <string name="create_cv">create cv</string>
-    <string name="update_favorite">update cv</string>
+    <string name="update_resume">update cv</string>
     <string name="offer">offer</string>
     <string name="offer_favorite">offer favorite</string>
     <string name="help">Help</string>
     <string name="cancel">Cancel</string>
     <string name="apply">Apply</string>
+    <string name="sector">sector</string>
     <string name="first_name">First name</string>
     <string name="last_name">Last name</string>
     <string name="degrees">Degrees</string>

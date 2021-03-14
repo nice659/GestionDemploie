@@ -2,10 +2,12 @@
     <string name="presentation">Présentation</string>
     <string name="app_name">GestionDemploie</string>
     <string name="job">
-        Une authentification •Une Page de Création de son CV •Une Page de Création/Modification de Favoris Une Page de Recherche des offre
-        Une Page de Consultation des offres de favoris Une Page de Réponse à une Offre</string>
+       Il sera lieu de faciliter à un demandeur d\'emploi une interface d’accès
+pour voir les offres d\'emplois postées et la notification d\'offres suivant les
+catégories concernées. Un profil recruteur permettra de poster les offres et
+de regarder les CV postés</string>
     <string name="create_cv">creation cv</string>
-    <string name="update_favorite">modifie des favories</string>
+    <string name="update_resume">modifie le cv</string>
     <string name="offer">offre</string>
     <string name="offer_favorite">offre favorie</string>
     <string name="help">Aide</string>
@@ -15,6 +17,7 @@
     <string name="last_name">Nom</string>
     <string name="degrees">Diplome</string>
     <string name="o_level">Bac</string>
+    <string name="sector">metier</string>
     <string name="bachelor">Licence</string>
     <string name="master">Master</string>
     <string name="phone_number">numero telephone</string>
